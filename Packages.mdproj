@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ItemType>PackagingProject</ItemType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6559B980-40FF-4E47-8B84-161F4DE9D4D4}</ProjectGuid>
+    <Packages>
+      <Packages>
+        <Package name="Mono Makefile Quellen">
+          <Builder targetFile="Monsterbator-src.tar.gz" format="MonoDevelop.Projects.FileFormat" ctype="SourcesZipPackageBuilder">
+            <ChildEntries>
+              <SolutionItemReference path="Monsterbator.csproj" />
+            </ChildEntries>
+            <RootEntry path="Monsterbator.sln" id=":root:" />
+          </Builder>
+        </Package>
+        <Package name="Linux Binaries">
+          <Builder targetFile="Monsterbator-linux.tar.gz" platform="Linux" configuration="Debug|x86" ctype="BinariesZipPackageBuilder">
+            <ChildEntries>
+              <SolutionItemReference path="Monsterbator.csproj" />
+            </ChildEntries>
+            <RootEntry path="Monsterbator.sln" id=":root:" />
+          </Builder>
+        </Package>
+        <Package name="Microsoft Windows Binaries">
+          <Builder targetFile="Monsterbator-windows.zip" platform="Windows" configuration="Release|x86" ctype="BinariesZipPackageBuilder">
+            <ChildEntries>
+              <SolutionItemReference path="Monsterbator.csproj" />
+            </ChildEntries>
+            <RootEntry path="Monsterbator.sln" id=":root:" />
+          </Builder>
+        </Package>
+        <Package name="Tarball">
+          <Builder TargetDirectory="." DefaultConfiguration="Release|x86" ctype="TarballDeployTarget">
+            <ChildEntries>
+              <SolutionItemReference path="Monsterbator.csproj" />
+            </ChildEntries>
+            <RootEntry path="Monsterbator.sln" id=":root:" />
+          </Builder>
+        </Package>
+      </Packages>
+    </Packages>
+  </PropertyGroup>
+</Project>

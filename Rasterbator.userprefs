@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/gui/WelcomePanel.cs" ctype="Workbench">
+    <Files>
+      <File FileName="src/gui/CompletedPanel.cs" Line="1" Column="1" />
+      <File FileName="src/Rasterbator.cs" Line="1" Column="1" />
+      <File FileName="src/gui/RasterbatingPanel.cs" Line="1" Column="1" />
+      <File FileName="src/gui/assistant/AssistantControl.cs" Line="1" Column="1" />
+      <File FileName="src/gui/WelcomePanel.cs" Line="22" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Rasterbator" expanded="True">
+            <Node name="res" expanded="True">
+              <Node name="languages" expanded="True" />
+            </Node>
+            <Node name="src" expanded="True">
+              <Node name="gui" expanded="True">
+                <Node name="assistant" expanded="True" />
+                <Node name="WelcomePanel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
