@@ -17,7 +17,7 @@ namespace Rasterbator
 			// 
 			// SelectRasterbationSourceDialog
 			// 
-			this.SelectRasterbationSourceDialog.Filter = "Image files (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*." + "jpeg;*.bmp|All files (*.*)|*.*";
+			this.SelectRasterbationSourceDialog.Filter = "Image files (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|All files (*.*)|*.*";
 			this.SelectRasterbationSourceDialog.Title = "Select Rasterbation source...";
 			this.SelectRasterbationSourceDialog.FileOk += new System.ComponentModel.CancelEventHandler (this.OpenFileDialog1FileOk);
 			// 

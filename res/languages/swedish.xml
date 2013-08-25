@@ -12,7 +12,7 @@
   <item name="SelectSourceImageLabel">Välj bildkälla (1/5)</item>
   <item name="BrowseButton1">Bläddra...</item>
   <item name="SelectSource">Välj Rasterbation källa...</item>
-  <item name="SelectSourceFilter">Bildfiler (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Alla filer (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Bildfiler (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Alla filer (*.*)|*.*</item>
   <item name="BackButton1">&lt; Tillbaka</item>
   <item name="ContinueButton2">Fortsätt &gt;</item>
 

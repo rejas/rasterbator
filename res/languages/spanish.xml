@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Selección de la imagen de origen (1/5)</item>
   <item name="BrowseButton1">Examinar...</item>
   <item name="SelectSource">Selecciona la imagen de partida...</item>
-  <item name="SelectSourceFilter">Archivos de imágenes (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Todos los archivos (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Archivos de imágenes (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Todos los archivos (*.*)|*.*</item>
   <item name="BackButton1">&lt; Atrás</item>
   <item name="ContinueButton2">Continuar &gt;</item>
 

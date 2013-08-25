@@ -12,7 +12,7 @@
   <item name="SelectSourceImageLabel">Bitte wählen sie ihr Originalbild aus! (Schritt 1/5)</item>
   <item name="BrowseButton1">Durchsuchen...</item>
   <item name="SelectSource">Bitte wählen sie ihr Originalbild</item>
-  <item name="SelectSourceFilter">Bilddateien (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Alle Dateien (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Bilddateien (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Alle Dateien (*.*)|*.*</item>
   <item name="BackButton1">&lt; Zurück</item>
   <item name="ContinueButton2">Weiter &gt;</item>
 

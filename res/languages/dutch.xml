@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Selecteer bron afbeelding (1/5)</item>
   <item name="BrowseButton1">Zoeken...</item>
   <item name="SelectSource">Selecteer Rasterbation bron...</item>
-  <item name="SelectSourceFilter">Afbeelding bestanden (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Alle bestanden (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Afbeelding bestanden (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Alle bestanden (*.*)|*.*</item>
   <item name="BackButton1">&lt; Terug</item>
   <item name="ContinueButton2">Doorgaan &gt;</item>
 

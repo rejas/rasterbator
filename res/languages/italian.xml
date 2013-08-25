@@ -13,7 +13,7 @@
 <item name="SelectSourceImageLabel">Selezionare l'immagine di partenza (1/5)</item>
 <item name="BrowseButton1">Seleziona...</item>
 <item name="SelectSource">Selezionare la sorgente per la Rasterizzazione...</item>
-<item name="SelectSourceFilter">File immagine (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Tutti i file (*.*)|*.*</item>
+<item name="SelectSourceFilter">File immagine (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Tutti i file (*.*)|*.*</item>
 <item name="BackButton1">&lt; Indietro</item>
 <item name="ContinueButton2">Avanti &gt;</item>
 

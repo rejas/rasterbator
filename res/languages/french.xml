@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Selectionner l'image source (1/5)</item>
   <item name="BrowseButton1">Parcourir...</item>
   <item name="SelectSource">Selectionner la source que The Rasterbation va tramer...</item>
-  <item name="SelectSourceFilter">Fichier Image (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Tous les fichiers (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Fichier Image (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Tous les fichiers (*.*)|*.*</item>
   <item name="BackButton1">&lt; Retour</item>
   <item name="ContinueButton2">Continuer &gt;</item>
 

@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Kaynak görüntüyü seçin lütfen (1/5)</item>
   <item name="BrowseButton1">Göz at...</item>
   <item name="SelectSource">Tarama kaynağını seçin...</item>
-  <item name="SelectSourceFilter">Görüntü dosyaları (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Bütün dosyalar (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Görüntü dosyaları (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Bütün dosyalar (*.*)|*.*</item>
   <item name="BackButton1">&lt; Geri</item>
   <item name="ContinueButton2">Devam &gt;</item>
 

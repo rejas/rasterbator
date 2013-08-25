@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Alegeti imaginea sursa (pasul 1 din 5)</item>
   <item name="BrowseButton1">Cautare...</item>
   <item name="SelectSource">Selectati sursa...</item>
-  <item name="SelectSourceFilter">Fisierele imagine (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Toate fisierele (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Fisierele imagine (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Toate fisierele (*.*)|*.*</item>
   <item name="BackButton1">&lt; Înapoi</item>
   <item name="ContinueButton2">Continuare &gt;</item>
 

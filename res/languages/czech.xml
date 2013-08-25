@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Krok 1/5: Vyberte zdrojový obrázek.</item>
   <item name="BrowseButton1">Procházet...</item>
   <item name="SelectSource">Vyberte zdroj pro Rasterbator...</item>
-  <item name="SelectSourceFilter">Všechny obrázky (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|Všechny soubory (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Všechny obrázky (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|Všechny soubory (*.*)|*.*</item>
   <item name="BackButton1">&lt; Zpet</item>
   <item name="ContinueButton2">Další &gt;</item>
 

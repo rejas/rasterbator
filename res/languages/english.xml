@@ -13,7 +13,7 @@
   <item name="SelectSourceImageLabel">Select source image (1/5)</item>
   <item name="BrowseButton1">Browse...</item>
   <item name="SelectSource">Select Rasterbation source...</item>
-  <item name="SelectSourceFilter">Image files (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp|All files (*.*)|*.*</item>
+  <item name="SelectSourceFilter">Image files (*.jpg, *.png, *.gif, *.tif, *.bmp)|*.jpg;*.gif;*.png;*.tif;*.tiff;*.jpeg;*.bmp;*.JPG;*.GIF;*.PNG;*.TIF;*.TIFF;*.JPEG;*.BMP|All files (*.*)|*.*</item>
   <item name="BackButton1">&lt; Back</item>
   <item name="ContinueButton2">Continue &gt;</item>
 
