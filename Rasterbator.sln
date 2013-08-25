@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rasterbator", "Rasterbator.csproj", "{5E812CC6-39CA-47EC-813E-5DF7260D9AC7}"
 EndProject
-Project("{9344bdbb-3e7f-41fc-a0dd-8665d75ee146}") = "Packages", "Packages.mdproj", "{6559B980-40FF-4E47-8B84-161F4DE9D4D4}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Packages", "Packages.mdproj", "{6559B980-40FF-4E47-8B84-161F4DE9D4D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,5 +20,6 @@ Global
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Rasterbator.csproj
+		version = 1.4.1
 	EndGlobalSection
 EndGlobal
