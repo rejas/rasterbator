@@ -1,5 +1,4 @@
-
-// The Rasterbator Standalone Version 1.4.1
+// The Rasterbator Standalone Version 1.4.2
 // Copyright (C) 2004-2010 Matias Ärje
 // 
 // This program is free software; you can redistribute it and/or
@@ -159,6 +158,8 @@ namespace Rasterbator
 			this.panel2_SourceImage.ResumeLayout (false);
 			this.panel1_Welcome.ResumeLayout (false);
 			this.ResumeLayout (false);
+
+			this.CenterToScreen();
 		}
 
 		bool CheckFile (string dir, string filename)
@@ -237,7 +238,7 @@ namespace Rasterbator
 		{
 			ApplicationDirectory = Assembly.GetExecutingAssembly ().Location;
 			ApplicationDirectory = ApplicationDirectory.Substring (0, ApplicationDirectory.LastIndexOf (Path.DirectorySeparatorChar) + 1);
-			ResourceDirectory = ApplicationDirectory + "res" + Path.DirectorySeparatorChar;
+			ResourceDirectory = ApplicationDirectory + "../Resources" + Path.DirectorySeparatorChar;
 			
 			if (!CheckFile (ApplicationDirectory, "itextsharp.dll")) {
 				Close ();

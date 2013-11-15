@@ -1,4 +1,4 @@
-// The Rasterbator Standalone Version 1.3
+// The Rasterbator Standalone Version 1.4.2
 // Copyright (C) 2004-2010 Matias Ärje
 // 
 // This program is free software; you can redistribute it and/or
